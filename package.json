@@ -1,0 +1,28 @@
+{
+  "name": "echonews",
+  "version": "0.0.1",
+  "description": "EchoJs scrapper to enable reading latest news from commandline",
+  "main": "lib/main.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha test/*.js",
+    "start":"lib/main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/devangpaliwal/echojs.git"
+  },
+  "author": "Devang Paliwal",
+  "license": "BSD",
+  "dependencies": {
+      "nom":""
+    },
+  "devDependencies": {
+    "mocha":"",
+    "should":"",
+    "nom":""
+  },
+  "bin": { "echonews": "./bin/echonews" }
+}
