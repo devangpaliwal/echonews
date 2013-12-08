@@ -10,4 +10,8 @@ Its recomended to use -g option so that echojs is added to you /usr/bin director
 ###Usage:
 $> echonews
 
+###License
+Copyright (c) 2013 Devang Paliwal. 
+Licensed under the MIT license
+
 

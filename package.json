@@ -15,7 +15,7 @@
     "url": "https://github.com/devangpaliwal/echonews.git"
   },
   "author": "Devang Paliwal",
-  "license": "BSD",
+  "license": "MIT",
   "dependencies": {
       "nom":""
     },
